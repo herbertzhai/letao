@@ -1,6 +1,6 @@
 {
-  "name": "chuantao",
-  "version": "0.0.0",
+  "name": "letao",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "start": "node ./bin/www"
@@ -18,5 +18,24 @@
     "mysql": "^2.15.0",
     "node-uuid": "*",
     "serve-favicon": "^2.5.0"
-  }
+  },
+  "description": "- bootstrap 也是一个ui框架  响应式的ui框架  兼容不同终端 可以适配pc端 也可以适配  移动端\r - Mui 是一个ui框架 针对移动端开发的ui框架    只能适配移动端（流式布局）\r - 学习官网 http://dev.dcloud.net.cn/mui/\r - 官方文档 http://dev.dcloud.net.cn/mui/ui/\r - 组件展示 http://dcloud.io/hellomui/",
+  "main": "app.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/herbertzhai/letao.git"
+  },
+  "keywords": [
+    "letao"
+  ],
+  "author": "herbertzhai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/herbertzhai/letao/issues"
+  },
+  "homepage": "https://github.com/herbertzhai/letao#readme"
 }

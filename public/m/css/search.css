@@ -14,6 +14,9 @@
     font-size: 12px;
     text-align: left;
     padding-left: 10px;
+    border-radius: 4px;
+    margin-bottom: 0;
+    
 }
 .ct_search a{
     width: 60px;
